@@ -187,6 +187,3 @@ This project was developed as part of my data analytics learning journey. It dem
 \*\*Reporting Period:\*\* January–December 2025
 
 
-## Dashboard preview.
-
-![ DASHBOARD PREVIEW ] (IMAGES/DASHBOARD_PREVIEW.PNG.png)
