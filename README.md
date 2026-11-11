@@ -189,4 +189,4 @@ This project was developed as part of my data analytics learning journey. It dem
 
 ## Dashboard preview.
 
-![ DASHBOARD_PREVIEW ] (IMAGES/DASHBOARD_PREVIEW.PNG.png)
+![ DASHBOARD PREVIEW ] (IMAGES/DASHBOARD_PREVIEW.PNG.png)
