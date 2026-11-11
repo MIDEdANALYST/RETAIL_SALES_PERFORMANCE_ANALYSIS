@@ -189,4 +189,4 @@ This project was developed as part of my data analytics learning journey. It dem
 
 ## Dashboard preview.
 
-![Retail Sales Performance Dashboard] (dashboard_preview.png)
+![Retail Sales Performance Dashboard] (DASHBOARD_PREVIEW.PNG.png..png)
