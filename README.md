@@ -186,3 +186,7 @@ This project was developed as part of my data analytics learning journey. It dem
 
 \*\*Reporting Period:\*\* January–December 2025
 
+
+## Dashboard preview.
+
+![Retail Sales Performance Dashboard] (dashboard_preview.png)
